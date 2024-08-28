@@ -1,3 +1,6 @@
+
+
+
 body {
     color: rgba(255, 30, 0, 0.671);
      background: rgb(0, 0, 0);
@@ -23,3 +26,11 @@ body {
      margin-right: 5%;
  }
 
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
